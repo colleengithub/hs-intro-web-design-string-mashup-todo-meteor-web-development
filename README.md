@@ -1,5 +1,7 @@
 # Silly String
 
+<img src="https://s3.amazonaws.com/after-school-assets/silly-string.gif" align="right" hspace="10" width="300px">
+
 A string in JavaScript is an data type that holds words, numbers, and other characters. A string is just data. This lab is going to be a refresher on how to create and manipulate strings. You'll code your solution in `silly_string.js`
 
 You can read about strings and all the methods available [here](http://www.ruby-doc.org/core-2.1.1/String.html).
