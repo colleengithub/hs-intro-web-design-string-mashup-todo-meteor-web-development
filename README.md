@@ -23,3 +23,5 @@ You can read about strings and all the methods available [here](http://www.ruby-
 7. Let's take the string `"Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"`. We want to use the `replace` method to switch all `A` for `O`, as well as all `a` for `o`. We'll need to chain `replaces`s.
 
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-string-mashup-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
