@@ -24,4 +24,4 @@ You can read about strings and all the methods available [here](http://www.ruby-
 
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-string-mashup-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-string-mashup-todo' title='Silly String'>Silly String</a> on Learn.co and start learning to code for free.</p>
